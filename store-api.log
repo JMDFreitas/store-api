@@ -1,0 +1,133 @@
+2022-05-26T23:20:07.272Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-26T23:33:31.914Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-26T23:33:33.018Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-27T09:35:41.359Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-27T09:39:39.148Z [store-api] error POST  - connect is not a function
+2022-05-27T09:49:44.523Z [store-api] error POST  - connect is not a function
+2022-05-27T09:50:51.639Z [store-api] error POST  - connect is not a function
+2022-05-27T09:52:30.287Z [store-api] error POST  - connect is not a function
+2022-05-27T09:55:01.823Z [store-api] error POST  - connect is not a function
+2022-05-27T09:59:00.698Z [store-api] error POST  - Connect is not a function
+2022-05-27T09:59:01.935Z [store-api] error POST  - Connect is not a function
+2022-05-27T10:00:17.080Z [store-api] info POST /client - {"name":"Johnny Michel","cpf":"00300200555","phone":"98955645584","email":"email@email.com","address":"Rua X casa 5 bairro cidade pais"}
+2022-05-27T10:11:46.441Z [store-api] error POST  - syntax error at or near "RETURNIG"
+2022-05-27T10:15:44.573Z [store-api] error POST  - Cannot read properties of undefined (reading '0')
+2022-05-27T10:16:19.511Z [store-api] info POST /client - {"name":"Jonathan Michel","cpf":"00300200567","phone":"98955645789","email":"email@email.com","address":"Rua Y casa 5 bairro cidade pais"}
+2022-05-27T10:17:29.481Z [store-api] info POST /client - {"name":"Nandreza Batista","cpf":"00300200567","phone":"98955645789","email":"email@email.com","address":"Rua Y casa 5 bairro cidade pais"}
+2022-05-27T11:03:02.605Z [store-api] info POST /client - {"name":"Misael Favacho","cpf":"0030020546998","phone":"98955645789","email":"email@email.com","address":"Rua J casa 5 bairro cidade pais"}
+2022-05-27T22:24:29.513Z [store-api] error POST  - syntax error at or near "RETURNIG"
+2022-05-27T22:25:10.969Z [store-api] error POST  - Unexpected token } in JSON at position 109
+2022-05-27T22:25:17.251Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-27T22:25:25.876Z [store-api] error POST  - syntax error at or near "RETURNIG"
+2022-05-27T22:26:12.375Z [store-api] info POST /client - {"name":"Marinete Dias","cpf":"0030020546998","phone":"98955645789","email":"email@email.com","address":"Rua J casa 5 bairro cidade pais"}
+2022-05-27T22:32:36.995Z [store-api] info POST /client - {"name":"Jonathan Hard","cpf":"0030020546998","phone":"98955645789","email":"email@email.com","address":"Rua 54 casa 5 bairro cidade pais"}
+2022-05-27T22:53:54.862Z [store-api] info GET /client
+2022-05-27T22:54:15.277Z [store-api] info GET /client
+2022-05-27T22:55:19.250Z [store-api] info GET /client
+2022-05-27T23:03:55.332Z [store-api] info POST /client - {"name":"Hebert Vianna","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-27T23:04:04.952Z [store-api] info GET /client
+2022-05-27T23:21:49.764Z [store-api] info GET /client/:id
+2022-05-27T23:21:55.925Z [store-api] info GET /client/:id
+2022-05-27T23:22:02.068Z [store-api] info GET /client/:id
+2022-05-27T23:24:30.255Z [store-api] info GET /client/:id
+2022-05-27T23:35:18.072Z [store-api] info DELETE /client/:id
+2022-05-27T23:35:45.998Z [store-api] info DELETE /client/:id
+2022-05-27T23:36:02.858Z [store-api] info DELETE /client/:id
+2022-05-27T23:36:30.283Z [store-api] info DELETE /client/:id
+2022-05-27T23:36:43.862Z [store-api] info DELETE /client/:id
+2022-05-27T23:38:49.204Z [store-api] info DELETE /client/:id
+2022-05-27T23:41:24.794Z [store-api] info GET /client
+2022-05-28T09:56:56.125Z [store-api] info GET /client
+2022-05-28T09:57:01.577Z [store-api] info GET /client/:id
+2022-05-28T09:57:15.838Z [store-api] info PUT /client - {"client_id":"1","name":"Hebert Vianna","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T09:57:27.683Z [store-api] info GET /client/:id
+2022-05-28T09:57:54.601Z [store-api] info GET /client
+2022-05-28T10:02:25.108Z [store-api] error PUT  - Name, cpf, phone, email, address são obrigatorios
+2022-05-28T10:02:45.289Z [store-api] error PUT  - Client Id, Name, cpf, phone, email, address são obrigatorios
+2022-05-28T10:03:07.859Z [store-api] info PUT /client - {"client_id":"2","name":"Renato Russo","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:03:44.196Z [store-api] info PUT /client - {"client_id":"3","name":"Renato Russo","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:06:54.342Z [store-api] info PUT /client - {"client_id":"3","name":"Raul Seixas","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:09:27.397Z [store-api] info POST /client - {"name":"Hebert Vianna","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:11:24.703Z [store-api] info POST /client - {"client_id":12,"name":"Anderson Silva","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:12:11.842Z [store-api] info PUT /client - {"client_id":"12","name":"Anderson freitas","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T10:14:47.008Z [store-api] info PUT /client - {"client_id":12,"name":"Nandreza Saadanie","cpf":"0030020544125","phone":"989556455454","email":"email@email.com","address":"Rua Paralamas do sucesso casa 5 bairro cidade pais"}
+2022-05-28T11:53:24.499Z [store-api] info POST /supplier - {"supplier_id":1,"name":"Educa Livros","cnpj":"12345678000145","phone":"9132554545","email":"eudca@email.com","address":"Rua das empresas n45"}
+2022-05-28T11:54:58.483Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Educa Livros","cnpj":"12345678000145","phone":"9132554545","email":"eudca@email.com","address":"Rua das empresas n 55"}
+2022-05-28T11:56:06.032Z [store-api] info POST /supplier - {"supplier_id":2,"name":"Full Systems","cnpj":"12345678000255","phone":"913256565","email":"full@email.com","address":"Rua das empresas n 100"}
+2022-05-28T11:56:27.946Z [store-api] info GET /supplier
+2022-05-28T11:57:02.143Z [store-api] info GET /supplier/:id
+2022-05-28T11:57:12.761Z [store-api] info GET /supplier/:id
+2022-05-28T11:57:58.005Z [store-api] info DELETE /supplier/:id
+2022-05-28T11:58:03.793Z [store-api] info GET /supplier
+2022-05-28T11:58:19.321Z [store-api] info POST /supplier - {"supplier_id":3,"name":"Full Systems","cnpj":"12345678000255","phone":"913256565","email":"full@email.com","address":"Rua das empresas n 100"}
+2022-05-28T11:58:35.345Z [store-api] info GET /supplier
+2022-05-28T11:59:03.317Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Educa Livros LTDA","cnpj":"12345678000145","phone":"9132554545","email":"eudca@email.com","address":"Rua das empresas n 55"}
+2022-05-28T12:48:29.882Z [store-api] error POST  - Name, cpf, phone, email, address são obrigatorios
+2022-05-28T12:48:47.844Z [store-api] error POST  - invalid input syntax for type integer: "email@email.com"
+2022-05-28T12:49:49.693Z [store-api] error POST  - invalid input syntax for type integer: "Rua Paralamas do sucesso casa 5 bairro cidade pais"
+2022-05-28T12:50:09.234Z [store-api] error POST  - Name, description, value, stock, supplier_id são obrigatorios
+2022-05-28T12:50:17.980Z [store-api] info POST /product - {"product_id":1,"supplier_id":1,"name":"Livro Matemática","description":"Matemática ensino fundamental","value":"10","stock":100}
+2022-05-28T12:51:40.708Z [store-api] info POST /product - {"product_id":2,"supplier_id":1,"name":"Livro Portugês","description":"Portugês ensino fundamental","value":"5","stock":200}
+2022-05-28T12:52:19.278Z [store-api] info POST /product - {"product_id":3,"supplier_id":1,"name":"Livro Portugês","description":"Portugês ensino fundamental","value":"10","stock":200}
+2022-05-28T12:54:33.001Z [store-api] info PUT /product - {"product_id":3,"name":"Livro Portugês V2","description":"Portugês ensino fundamental","value":8,"stock":30,"supplier_id":1}
+2022-05-28T12:55:46.010Z [store-api] info PUT /product - {"product_id":2,"name":"Livro Português","description":"Português ensino fundamental","value":9,"stock":50,"supplier_id":1}
+2022-05-28T12:56:19.467Z [store-api] info PUT /product - {"product_id":3,"name":"Livro Português V2","description":"Português ensino fundamental","value":15,"stock":80,"supplier_id":1}
+2022-05-28T12:56:40.399Z [store-api] info GET /product
+2022-05-28T12:56:55.970Z [store-api] info GET /product/:id
+2022-05-28T12:57:10.956Z [store-api] info DELETE /product/:id
+2022-05-28T12:57:15.682Z [store-api] info GET /product
+2022-05-28T13:18:11.877Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-05-28T13:30:36.319Z [store-api] info GET /supplier/:id
+2022-05-28T13:30:39.851Z [store-api] info GET /supplier
+2022-05-28T13:30:50.784Z [store-api] info GET /supplier/:id
+2022-05-28T13:30:58.777Z [store-api] info GET /supplier/:id
+2022-05-28T13:32:14.552Z [store-api] error POST  - O Id do supplier não existe no banco de dados
+2022-05-28T13:36:02.863Z [store-api] error PUT  - O Id do supplier não existe no banco de dados
+2022-05-28T15:37:55.118Z [store-api] error POST  - Product_id, client_id, value, date são obrigatorios
+2022-05-28T15:39:47.586Z [store-api] error POST  - INSERT has more expressions than target columns
+2022-05-28T15:40:55.320Z [store-api] error POST  - INSERT has more expressions than target columns
+2022-05-28T15:42:03.616Z [store-api] info POST /sale - {"sale_id":1,"client_id":1,"product_id":1,"value":"500","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T15:42:19.706Z [store-api] info POST /sale - {"sale_id":2,"client_id":1,"product_id":1,"value":"500","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T15:43:23.485Z [store-api] info POST /sale - {"sale_id":3,"client_id":3,"product_id":2,"value":"500","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T15:45:03.922Z [store-api] info GET /sale
+2022-05-28T15:45:32.971Z [store-api] info PUT /sale - {"sale_id":1,"client_id":3,"product_id":2,"value":300,"date":"20220402"}
+2022-05-28T15:45:38.236Z [store-api] info GET /sale
+2022-05-28T15:45:56.546Z [store-api] info PUT /sale - {"sale_id":1,"client_id":1,"product_id":2,"value":350,"date":"20220402"}
+2022-05-28T15:46:02.251Z [store-api] info GET /sale
+2022-05-28T15:46:13.399Z [store-api] info PUT /sale - {"sale_id":1,"client_id":1,"product_id":1,"value":350,"date":"20220402"}
+2022-05-28T15:46:17.827Z [store-api] info GET /sale
+2022-05-28T15:47:00.957Z [store-api] info GET /client/:id
+2022-05-28T15:47:13.041Z [store-api] info GET /sale/:id
+2022-05-28T15:47:35.090Z [store-api] info DELETE /sale/:id
+2022-05-28T16:10:28.680Z [store-api] error POST  - O client_id informado não existe
+2022-05-28T16:10:41.307Z [store-api] error POST  - O client_id informado não existe
+2022-05-28T16:11:09.748Z [store-api] error POST  - O client_id informado não existe
+2022-05-28T16:11:28.284Z [store-api] info GET /client
+2022-05-28T16:12:50.301Z [store-api] info POST /sale - {"sale_id":4,"client_id":3,"product_id":2,"value":"500","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T16:13:07.789Z [store-api] error POST  - O client_id informado não existe
+2022-05-28T16:13:16.648Z [store-api] error POST  - O product_id informado não existe
+2022-05-28T16:13:24.559Z [store-api] error POST  - O client_id informado não existe
+2022-05-28T17:52:05.163Z [store-api] error PUT  - O client_id informado não existe
+2022-05-28T17:52:12.453Z [store-api] error PUT  - O client_id informado não existe
+2022-05-28T17:52:18.238Z [store-api] error PUT  - O product_id informado não existe
+2022-05-28T18:09:58.712Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-05-28T18:13:20.581Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-05-28T18:13:30.812Z [store-api] info POST /sale - {"sale_id":5,"client_id":1,"product_id":1,"value":"100","date":"2022-05-28T03:00:00.000Z"}
+2022-05-28T18:17:03.831Z [store-api] error POST  - O Id do supplier não existe no banco de dados
+2022-05-28T18:17:10.923Z [store-api] info POST /product - {"product_id":6,"supplier_id":1,"name":"Livro de Algoritmo","description":"Estudo base sobre algoritmo com o JavaScript","value":"10","stock":1}
+2022-05-28T18:17:36.599Z [store-api] info POST /sale - {"sale_id":6,"client_id":1,"product_id":6,"value":"100","date":"2022-05-28T03:00:00.000Z"}
+2022-05-28T18:17:38.664Z [store-api] error POST  - O produto informado não possui estoque.
+2022-05-28T18:31:29.842Z [store-api] info GET /sale/:id
+2022-05-28T18:32:04.893Z [store-api] info DELETE /sale/:id
+2022-05-28T18:32:07.832Z [store-api] info GET /sale/:id
+2022-05-28T18:32:53.419Z [store-api] error DELETE  - O id da sale informada não existe
+2022-05-28T18:39:37.336Z [store-api] info GET /sale
+2022-05-28T18:40:13.501Z [store-api] info PUT /sale - {"sale_id":2,"client_id":1,"product_id":2,"value":"500","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T18:40:24.844Z [store-api] info PUT /sale - {"sale_id":2,"client_id":1,"product_id":2,"value":"50","date":"2022-05-05T03:00:00.000Z"}
+2022-05-28T18:40:41.331Z [store-api] info PUT /sale - {"sale_id":2,"client_id":1,"product_id":2,"value":"50","date":"20220425"}
+2022-05-28T18:45:27.578Z [store-api] info GET /product
+2022-05-28T18:45:58.462Z [store-api] info GET /sale
+2022-05-28T18:46:23.736Z [store-api] info GET /sale
+2022-05-28T19:01:40.187Z [store-api] info GET /sale
+2022-05-28T19:01:59.970Z [store-api] info GET /sale
+2022-05-28T19:02:05.955Z [store-api] info GET /sale
