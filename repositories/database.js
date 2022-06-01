@@ -7,8 +7,7 @@ async function connect() {
     }
     // Criação da instancia do db
     const pool = new pg.Pool({
-        connectionString:
-            'postgres://eojqncpf:egLvf5H0NbCCbbqHNgORjpqnRJYNZExp@fanny.db.elephantsql.com/eojqncpf',
+        connectionString: '',
     });
     // Deixando a instancia como variavel global pra o IF acima
     global.connection = pool;
